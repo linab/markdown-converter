@@ -1,0 +1,12 @@
+{
+    "name": "elinab/markdown-converter",
+    "description": "Convert Markdown to HTML",
+    "type": "project",
+    "require": {
+      "php": "^8.1.5"
+    },
+    "require-dev": {
+      "phpunit/phpunit": "^9"
+    },
+    "license": "MIT"
+  }

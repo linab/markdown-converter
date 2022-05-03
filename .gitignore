@@ -1,0 +1,9 @@
+# Composer & Node
+/node-modules/*
+/node-modules/
+/vendor
+/composer.lock
+
+# PHPUnit
+/.phpunit.cache
+.phpunit.result.cache
